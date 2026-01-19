@@ -1,0 +1,8 @@
+{
+  "name": "JARVIS Advanced AI Assistant",
+  "description": "An ultra-advanced, self-improving AI interface inspired by JARVIS, featuring real-time vision, voice interaction, and multi-modal reasoning capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
